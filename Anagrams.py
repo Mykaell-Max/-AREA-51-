@@ -12,7 +12,7 @@ word = str(input('Word: ')).strip().lower()
 anagrams.append(word)
 
 for le in word:
-		letters.append(le)
+    letters.append(le)
     if le not in verif:
         n = word.count(le)
         fac = fac * factorial(n)
