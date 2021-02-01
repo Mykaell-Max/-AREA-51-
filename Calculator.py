@@ -14,7 +14,7 @@ while choice != 9:
 [4] Divide (1° / 2°)
 [5] Percentage (1° % 2°)
 [6] Power (1° ^ 2°)
-[7] Root (2° ^ (1 / 2°)) 
+[7] Root (2° ^ (1 / 1°)) 
 [8] Insert new values
 [9] Finish session 
 Your choice: '''))
